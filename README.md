@@ -1,2 +1,2 @@
 # FinalProject
-Repression of Neural Network
+Undergraduate dissertation on deep learning network model.
