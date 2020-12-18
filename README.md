@@ -1,2 +1,2 @@
 # FinalProject
-Undergraduate dissertation on deep learning network model.
+Undergraduate dissertation on compressing deep learning network model.
